@@ -1,4 +1,8 @@
-# Anya's User Page 
+# Anya's User Page
+
+## Table of Content
+1. [General introduction](#general-introduction)
+2. [Pets](#pets)
 
 ## General introduction
 
