@@ -14,7 +14,7 @@ and trying out new hobbies in general.
 
 ## Pets 
 
-My family has 2 pets:
+My family has 2 pets. They mean a lot to me so I thought that I would share about them on this page too:
 
 - Vuka:
 
