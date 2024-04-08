@@ -18,8 +18,10 @@ My family has 2 pets:
 
 - Vuka:
 
-
+<img src ="./assets/vuka.jpg" style="height:200px; width:200px "/>
 
 - Grisha:
+
+![Grisha](./assets/grisha.jpg width="300")
 
 
