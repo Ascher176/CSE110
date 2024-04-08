@@ -22,6 +22,6 @@ My family has 2 pets:
 
 - Grisha:
 
-![Grisha](./assets/grisha.jpg width="300")
+<img src ="./assets/grisha.jpg" style="height:200px; width:200px "/>
 
 
