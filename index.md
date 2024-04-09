@@ -33,6 +33,7 @@ The first lines of code I wrote here at UCSD one and a half years ago! :
 
 ``
 name = input('Enter your name: ')
+
 print("Hello, " + name + "! Welcome to CSE 8A!")
 ``
 
