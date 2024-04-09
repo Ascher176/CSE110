@@ -18,10 +18,9 @@ traveling and trying out new hobbies in general.
 
 ## Quote
 
-Even though I am a fan of inspirational quotes, I don't really have
-a favourite one. However, the first thing that comes to my mind whenever
-I think about a quote is [this](./linked.md).
-
+Even though I am a fan of inspirational quotes, I'm not too sure which one
+to put here. However, the first thing that comes to my mind whenever
+I think of a quote is [this](./linked.md).
 
 ## Good habits that I really want 
 ### but do not have discipline to maintain
