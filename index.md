@@ -18,11 +18,10 @@ traveling and trying out new hobbies in general.
 
 ## Quote
 
-Quoting myself:
+Even though I am a fan of inspirational quotes, I don't really have
+a favourite one. However, the first thing that comes to my mind whenever
+I think about a quote is [this](./linked.md).
 
-> My name is Anya.
-
-I'll think about something more original.
 
 ## Good habits that I really want 
 ### but do not have discipline to maintain
