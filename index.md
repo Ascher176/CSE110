@@ -3,8 +3,9 @@
 ## Table of Content
 1. [General introduction](#general-introduction)
 2. [Quote](#quote)
-3. [Habits that I want to have](#good-habits-that-i-really-want)
-4. [Pets](#pets)
+3. [Code](#code)
+4. [Habits that I want to have](#good-habits-that-i-really-want)
+5. [Pets](#pets)
 
 ## General introduction
 
@@ -19,8 +20,22 @@ traveling and trying out new hobbies in general.
 ## Quote
 
 Even though I am a fan of inspirational quotes, I'm not too sure which one
-to put here. However, the first thing that comes to my mind whenever
+to put here. 
+
+> A place for an awesome quote.
+
+However, the first thing that comes to my mind whenever
 I think of a quote is [this](./linked.md).
+
+## Code
+
+The first lines of code I wrote here at UCSD one and a half years ago! :
+
+``
+name = input('Enter your name: ')
+print("Hello, " + name + "! Welcome to CSE 8A!")
+``
+Stepik was a great learning resource for me: [link](https://stepik.org/course/125129/syllabus?auth=login)
 
 ## Good habits that I really want 
 ### but do not have discipline to maintain
