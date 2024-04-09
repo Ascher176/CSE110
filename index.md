@@ -8,9 +8,9 @@
 
 ## General introduction
 
-Hi! My name is Anya. I am a second year Computer Science major. 
+Hi! My name is **Anya**. I am a second year **Computer Science** major. 
 I am also an international student from Russia. I am most excited
-about Software Engineering, AI and Cybersecurity. However, I still
+about **Software Engineering**, **AI** and **Cybersecurity**. However, I still
 don't know a lot of things, so I am very open to any learning opportunity
 that comes my way. My interests (besides Computer Science) are different
 types of sports like swimming and snowboarding, drawing and sketching,
@@ -28,7 +28,7 @@ I think of a quote is [this](./linked.md).
 - [ ] Draw/sketch
 - [x] Do sports (*I'm actually doing it this quarter!*)
 - [x] Time managment with a calendar (*Doing this too!*)
-- [ ] Maintain sleep routine
+- [ ] **Maintain sleep routine**
 - [ ] Read
 - [ ] Do Leetcode
 - [ ] Learn a foreign language
