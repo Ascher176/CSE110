@@ -35,6 +35,7 @@ The first lines of code I wrote here at UCSD one and a half years ago! :
 name = input('Enter your name: ')
 print("Hello, " + name + "! Welcome to CSE 8A!")
 ``
+
 Stepik was a great learning resource for me: [link](https://stepik.org/course/125129/syllabus?auth=login)
 
 ## Good habits that I really want 
