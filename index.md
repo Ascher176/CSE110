@@ -22,7 +22,7 @@ traveling and trying out new hobbies in general.
 Even though I am a fan of inspirational quotes, I'm not too sure which one
 to put here. 
 
-> A place for an awesome quote.
+> ~~A place for an awesome quote.~~
 
 However, the first thing that comes to my mind whenever
 I think of a quote is [this](./linked.md).
@@ -43,8 +43,8 @@ Stepik was a great learning resource for me: [link](https://stepik.org/course/12
 ### but do not have discipline to maintain
 
 - [ ] Draw/sketch
-- [x] Do sports (*I'm actually doing it this quarter!*)
-- [x] Time managment with a calendar (*Doing this too!*)
+- [x] Do sports <sub>(*I'm actually doing it this quarter!*)</sub>
+- [x] Time managment with a calendar <sub>(*Doing this too!*)</sub>
 - [ ] ***Maintain sleep routine***
 - [ ] Read
 - [ ] Do Leetcode
