@@ -45,7 +45,7 @@ Stepik was a great learning resource for me: [link](https://stepik.org/course/12
 - [ ] Draw/sketch
 - [x] Do sports (*I'm actually doing it this quarter!*)
 - [x] Time managment with a calendar (*Doing this too!*)
-- [ ] **Maintain sleep routine**
+- [ ] ***Maintain sleep routine***
 - [ ] Read
 - [ ] Do Leetcode
 - [ ] Learn a foreign language
